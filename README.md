@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
