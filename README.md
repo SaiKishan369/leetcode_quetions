@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
