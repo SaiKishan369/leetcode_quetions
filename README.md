@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
