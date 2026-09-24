@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
