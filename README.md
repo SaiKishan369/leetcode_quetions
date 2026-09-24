@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1174-immediate-food-delivery-ii) |
+| [1341-movie-rating](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1789-primary-department-for-each-employee) |
 ## Hash Table
