@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
