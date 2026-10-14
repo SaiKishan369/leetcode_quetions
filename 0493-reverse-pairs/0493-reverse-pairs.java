@@ -1,25 +1,26 @@
 class Solution {
     public int reversePairs(int[] nums) {
-        return divide(nums,0,nums.length-1);
+       int count=divide(nums,0,nums.length-1);
+       return count;
     }
 
-    public int divide(int[] nums, int low, int high){
+    public int divide(int [] nums, int low, int high){
         if(low>=high){
             return 0;
         }
         int mid=low+(high-low)/2;
         int count=0;
-        count+=divide(nums,low,mid);
-        count+=divide(nums,mid+1,high);
-        count+=compare(nums, low, mid, high);
-        merge(nums,low,mid,high);
-        return count;
+         count+=divide(nums,low,mid);
+         count+=divide(nums,mid+1,high);
+         count+=compare(nums,low,mid,high);
+         merge(nums,low,mid,high);
+         return count;
     }
 
-    public int compare(int[] nums, int low, int mid, int high){
+    public int compare(int[] nums,int low, int mid, int high){
         int j=mid+1;
         int count=0;
-        for(int i=low; i<=mid;i++){
+        for(int i=low;i<=mid;i++){
             while(j<=high && (long)nums[i]>2L * nums[j]){
                 j++;
             }
@@ -27,30 +28,22 @@ class Solution {
         }
         return count;
     }
-
     public void merge(int[] nums, int low, int mid, int high){
-        int[] temp=new int[high-low+1];
         int i=low;
         int j=mid+1;
         int k=0;
-        
-        while(i<=mid && j<=high){
-            if(nums[i] <= nums[j]){
-                temp[k++]=nums[i++];
-            }
-            else{
-                temp[k++]=nums[j++];
-            }
+        int[] temp=new int[high-low+1];
+        while(i<= mid && j<=high){
+            if(nums[i]<=nums[j])temp[k++]=nums[i++];
+            else{temp[k++]=nums[j++];};
         }
-
         while(i<=mid){
             temp[k++]=nums[i++];
         }
-
         while(j<=high){
             temp[k++]=nums[j++];
         }
-
+        
         for(int x=0;x<temp.length;x++){
             nums[low+x]=temp[x];
         }
