@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiKishan369/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
