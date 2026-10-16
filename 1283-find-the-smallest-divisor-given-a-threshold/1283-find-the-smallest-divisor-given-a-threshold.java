@@ -32,7 +32,7 @@ class Solution {
             if (sum <= threshold) {
                 // If the sum is within the threshold, 'mid' is a potential answer.
                 // We store it and try to find an even smaller divisor.
-                ans = mid;
+                // ans = mid;
                 high = mid - 1; 
             } else {
                 // If the sum is too large, our divisor 'mid' is too small.
@@ -40,6 +40,6 @@ class Solution {
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
 }
