@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiKishan369/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
