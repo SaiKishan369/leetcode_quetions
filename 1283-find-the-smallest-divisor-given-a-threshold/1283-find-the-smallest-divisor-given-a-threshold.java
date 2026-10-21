@@ -5,7 +5,6 @@ class Solution {
         for(int num:nums){
             high=Math.max(num,high);
         }
-        int ans=high;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(mid == 0){low=1;continue;}
