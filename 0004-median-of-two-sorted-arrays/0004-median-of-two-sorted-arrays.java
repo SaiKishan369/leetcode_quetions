@@ -73,9 +73,7 @@ class Solution {
             }
         }
 
-        // This line should theoretically not be reached if the input arrays are valid and sorted.
-        // It's a fallback to satisfy the compiler and indicate an unexpected state.
-        throw new IllegalArgumentException("Input arrays are not sorted or contain invalid data.");
+        return -1;
     }
 
 }
