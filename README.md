@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiKishan369/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SaiKishan369/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
