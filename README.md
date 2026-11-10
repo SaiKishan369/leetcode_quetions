@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SaiKishan369/leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
